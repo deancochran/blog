@@ -49,4 +49,3 @@ I think I’m fairly competitive, I’m sure I will write about my workouts, rac
 
 **add more ideas/projects/series from your courses/class projects/resume etc…**  
  
- 
