@@ -5,7 +5,7 @@ Test:
 
 $$z^2=X * W^1+b^1$$
 
-$$\begin{gathered}
+$$
 X W^1=X * W^1 \\
 z^2=X * W^1+b^1 \\
 a^2=f\left(z^2\right)=f\left(X * W^1+b^1\right) \\
@@ -13,7 +13,7 @@ z^3=a^2 W^2=a^2 * f\left(X * W^1+b^1\right) \\
 z^3=a^2 W^2+b^2=a^2 * f\left(X * W^1+b^1\right)+b^2 \\
 \hat{Y}=f\left(z^3\right)=\left(f\left(a^2 * f\left(X * W^1+b^1\right)+b^2\right)=z^3\right) \\
 J=\frac{1}{n}(\hat{Y}-Y)^2=\frac{1}{n}\left(z^3-Y\right)^2
-\end{gathered}$$
+$$
 (Eq.F3)
 (Eq. F4)
 (Eq.F5)
