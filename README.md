@@ -3,6 +3,8 @@ Dean’s Blog
 
 Test:
 
+$$z^2=X * W^1+b^1$$
+
 $$\begin{gathered}
 X W^1=X * W^1 \\
 z^2=X * W^1+b^1 \\
