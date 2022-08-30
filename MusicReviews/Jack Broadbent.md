@@ -1,11 +1,13 @@
 Jack Broadbent
 ==============
 
-Date: 8/29/22
+## Date: 
+8/29/22
 
-Rating: 7.3
+## Rating: 
+7.3
 
-Review:
+## Review:
 Jack is dope. This guy has some serious vocals. My favorite track has got to be his major hit, “on the road again,” and not it’s not the cover.
 
 Something about his slide guitar technique stands out from others. Maybe it’s the fact he uses a flask as a slide.
