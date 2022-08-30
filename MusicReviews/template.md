@@ -3,7 +3,9 @@ Artist Name
 
 
 ## Meta
+
 Review: —
+
 Date: MM/DD/YY
 
 ## Image:

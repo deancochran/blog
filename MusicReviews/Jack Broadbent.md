@@ -3,8 +3,10 @@ Jack Broadbent
 
 
 ## Meta
+
 Review: 0
-Date: 8/29/22
+
+Date: 08/29/22
 
 ## Image:
 ![Image](https://lastfm.freetls.fastly.net/i/u/ar0/e46afa1ae607ead6d8aeb7242553d743.jpg)
