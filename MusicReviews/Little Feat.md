@@ -19,4 +19,4 @@ A groooovy group. No kidding, this is a under appreciated band. I imagine myself
 
 It’s an older band, so it has an older appeal, but non the less I love it. It’s a good mix of funk, blues, country, and easy to sing along vocals. Sounds hard to beat right? 
 
-Oh and the trumpet licks! Their funk sound blends well for some sweet grooves. Definitely should go on everyone’s “Feel good while making dinner at home” playlist.
+Oh and the trumpet licks! Their funky style blends into the crunchy country tones really well for some nice tracks. Definitely should go on everyone’s “Feel good while making dinner at home” playlist.”
