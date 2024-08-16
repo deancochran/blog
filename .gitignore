@@ -131,3 +131,6 @@ dmypy.json
 .vscode/
 node_modules/
 bun.lockb
+
+.astro
+.astro/*
