@@ -21,10 +21,10 @@ jobs:
         uses: hashicorp/setup-terraform@v1
 
       - name: Terraform Init
-        run: terraform init
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: terraform init
 
       - name: Terraform Format
         run: terraform fmt -check
@@ -33,20 +33,13 @@ jobs:
         run: terraform validate
 
       - name: Terraform Plan
-        run: terraform plan
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: terraform plan
 
       - name: Terraform Apply
-        run: terraform apply -auto-approve -input=false
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-
-  release-please:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: google-github-actions/release-please-action@v3
-        with:
-          release-type: terraform-module
+        run: terraform apply -auto-approve -input=false
