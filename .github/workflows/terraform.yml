@@ -42,6 +42,7 @@ jobs:
         run: terraform apply -auto-approve -input=false
   Deploy:
     name: Build and Deploy to AWS
+    needs: [Terraform]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
