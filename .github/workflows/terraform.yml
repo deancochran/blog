@@ -61,7 +61,7 @@ jobs:
         with:
           version: 9
       - name: Install modules
-        run: pnpm ci
+        run: pnpm install
       - name: Build application
         run: pnpm run build
       - name: Deploy to S3
